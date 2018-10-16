@@ -1,0 +1,7 @@
+﻿  Dijkstra.cpp
+c:\users\owner\source\repos\dijkstra\dijkstra\dijkstra.h(148): warning C4018: '<': signed/unsigned mismatch
+c:\users\owner\source\repos\dijkstra\dijkstra\dijkstra.h(161): warning C4018: '<': signed/unsigned mismatch
+c:\users\owner\source\repos\dijkstra\dijkstra\dijkstra.h(176): warning C4018: '<': signed/unsigned mismatch
+c:\users\owner\source\repos\dijkstra\dijkstra\dijkstra.h(178): warning C4018: '<': signed/unsigned mismatch
+c:\users\owner\source\repos\dijkstra\dijkstra\dijkstra.h(190): warning C4018: '<': signed/unsigned mismatch
+  Dijkstra.vcxproj -> C:\Users\Owner\source\repos\Dijkstra\Debug\Dijkstra.exe
